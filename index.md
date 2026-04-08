@@ -2,7 +2,9 @@
 
 ## Table of Contents
 [About Me](#about-me)
+
 [Programming-Related](#programming-related)
+
 [Personal-Related](#personal-related)
 
 ## About Me
