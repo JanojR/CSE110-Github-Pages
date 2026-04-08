@@ -21,10 +21,10 @@ These are some things I'm interested in that's programming-related:
 
 ### Languages
 These are some languages I would like to know:
-[] Python
-[] C++
-[x] C
-[x] Java
+ - [ ] Python
+ - [ ] C++
+ - [x] C
+ - [x] Java
 I've checked the ones that I feel pretty confident in.
 
 Here is some cool C code:
