@@ -51,6 +51,7 @@ Here are some interests of mine:
 
 ### Favorite Quote
 > Choose to be optimistic, it feels better
+
 Dali Lama
 
 ### Cool Link
